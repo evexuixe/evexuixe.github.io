@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evexuixe.github.io/CJj/sitemap_index.txt
+Sitemap: https://evexuixe.github.io/Mjo/sitemap_index.txt
+Sitemap: https://evexuixe.github.io/eRw/sitemap_index.txt
+Sitemap: https://evexuixe.github.io/rXx/sitemap_index.txt
